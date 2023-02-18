@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: aqua;
+}
+
+.delete-btn {
+    color: red;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}  
